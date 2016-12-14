@@ -1,7 +1,7 @@
 === Photection - Easy image protection for WordPress ===
 Contributors: colormelon, justnorris
 Donate link: https://colormelon.com/image-right-click-protection-plugin/
-Tags: images, pictures, protection, no right click, disable right click, prevent right click
+Tags: images, pictures, protection, no right click, disable right click,  content protection, context menu, photection, copy protection, copyprotect, copyright, duplicate, image protect, image protection, no right click, plagiarism, protect blog, protection, security, theft
 Requires at least: 4.5.0
 Tested up to: 4.6.0
 Stable tag: 1.0.0
