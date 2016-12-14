@@ -1,4 +1,5 @@
-# Photection
+# Photection - Image Protection for WordPress
+[Download on WordPress.org](https://wordpress.org/plugins/photection/)
 Photection is a plugin to help you prevent image theft by disabling right click on images on your site, without an impact on site usability (right clicks on everything else will still work!).
 
 When an user right-clicks on your image, a small (customizable) message will appear telling him that the image is copyrighted.
