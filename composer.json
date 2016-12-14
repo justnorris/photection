@@ -1,0 +1,17 @@
+{
+  "name": "colormelon/photection",
+  "description": "WordPress image protection plugin",
+  "license": "GPLv3",
+  "authors": [
+    {
+      "name": "Norris",
+      "email": "im@justnorris.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Plugin\\": "includes/"
+    }
+  }
+}
